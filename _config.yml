@@ -3,7 +3,7 @@ style: dark
 
 user:
   email: markmarchant@gmail.com
-  bio: 'My name is Mark Marchant. I'm a full-stack software engineer. I have 2+ years of experience and proficient in JavaScript. I live Long Beach, CA with my wife and three dogs.'
+  bio: "My name is Mark Marchant. I'm a full-stack software engineer. I have 2+ years of experience and proficient in JavaScript. I live Long Beach, CA with my wife and three dogs."
   GA: UA-102442319-1
 
 plugins:
